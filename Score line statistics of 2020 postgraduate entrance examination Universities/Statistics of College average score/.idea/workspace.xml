@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63193644-9fd5-40c2-ae2a-d38fab7334a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Apache-maven-3.8.1\repository" />
+        <option name="mavenHome" value="F:/Apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="F:\Apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2AbrCALhYpaUpoljAUMPB1L4VMy" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../University Professional Statistics Ranking/src/main/java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Hadoop\接单\19数媒颜洁玲\MapReduce\University Professional Statistics Ranking\src\main\java" />
+      <recent name="F:\Hadoop\接单\19数媒颜洁玲\MapReduce\University Professional Statistics Ranking\src\main\resources" />
+      <recent name="F:\Hadoop\接单\19数媒颜洁玲\MapReduce\Query of scores of each major in the University\src\main\java" />
+      <recent name="F:\Hadoop\接单\19数媒颜洁玲\MapReduce\Query of scores of each major in the University\src\main\resources" />
+      <recent name="F:\Hadoop\接单\19数媒颜洁玲\MapReduce\Statistics of professional average score\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.自定义大学查询各专业分数线统计">
+    <configuration name="自定义大学查询各专业分数线统计" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Query of scores of each major in the University" />
+      <option name="PROGRAM_PARAMETERS" value="/user/root/yjl/input/ /user/root/yjl/output5 &quot;中山大学&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2020各大学平均分数线统计" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Statistics of College average score" />
+      <option name="PROGRAM_PARAMETERS" value="/user/root/yjl/input/ /user/root/yjl/output" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2020年考研各学校开放专业数量统计" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="University Professional Statistics Ranking" />
+      <option name="PROGRAM_PARAMETERS" value="/user/root/yjl/input/ /user/root/yjl/output4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2022年各专业考研平均分数线统计" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Statistics of professional average score" />
+      <option name="PROGRAM_PARAMETERS" value="/user/root/yjl/input/ /user/root/yjl/output1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.2020各大学平均分数线统计" />
+      <item itemvalue="Application.2022年各专业考研平均分数线统计" />
+      <item itemvalue="Application.自定义大学查询各专业分数线统计" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63193644-9fd5-40c2-ae2a-d38fab7334a3" name="Default Changelist" comment="" />
+      <created>1655288995522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655288995522</updated>
+      <workItem from="1655289006504" duration="14862000" />
+      <workItem from="1655337861154" duration="12351000" />
+      <workItem from="1655423515023" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1655295607679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1655295607679" />
+    <state x="366" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655689714799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="366" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1655689714799" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1655301288472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1655301288472" />
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1655355792572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1655355792572" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1655338290270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1655338290270" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1655289702887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1655289702887" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1655397591646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1655397591646" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1655397591646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1655397591646" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1655397591646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1655397591646" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1655397591646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1655397591646" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1655338424974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1655338424974" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1655423527877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1655423527877" />
+    <state x="411" y="93" width="782" height="600" key="find.popup" timestamp="1655689702708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="411" y="93" width="782" height="600" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1655689702708" />
+    <state x="178" y="108" key="new project wizard" timestamp="1655354345746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="108" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1655354345746" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1655294082451">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1655294082451" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1655294876260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1655294876260" />
+  </component>
+</project>

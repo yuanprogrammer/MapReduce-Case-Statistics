@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Statistics of professional average score" />
+        <module name="University Professional Statistics Ranking" />
+        <module name="Statistics of College average score" />
+        <module name="Query of scores of each major in the University" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
