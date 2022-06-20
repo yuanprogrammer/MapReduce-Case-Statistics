@@ -1,0 +1,4 @@
+VideoInfoJob.class
+VideoInfoWritable.class
+VideoInfoReduce.class
+VideoInfoMap.class
