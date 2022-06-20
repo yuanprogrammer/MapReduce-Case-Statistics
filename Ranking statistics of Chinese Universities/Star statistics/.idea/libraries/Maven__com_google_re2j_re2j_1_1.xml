@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.re2j:re2j:1.1">
+    <CLASSES>
+      <root url="jar://F:/Apache-maven-3.8.1/repository/com/google/re2j/re2j/1.1/re2j-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/Apache-maven-3.8.1/repository/com/google/re2j/re2j/1.1/re2j-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/Apache-maven-3.8.1/repository/com/google/re2j/re2j/1.1/re2j-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
