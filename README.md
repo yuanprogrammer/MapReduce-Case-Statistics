@@ -21,6 +21,11 @@
 				<td>WordCount</td>
 				<td>单词的统计和排序</td>
 			</tr>
+	<tr>
+				<td>JD mobile data statistics</td>
+				<td>Brand sales related data statistics</td>
+				<td>京东手机数据的分析统计，对同一品牌的销售量、销售额、评分进行汇总和平均，进行排序。</td>
+			</tr>
 			<tr>
 				<td rowspan="2">Anchor data statistics</td>
 				<td>Part I -- Extract data</td>
