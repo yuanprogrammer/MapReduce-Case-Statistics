@@ -1,0 +1,13 @@
+<configuration>
+    <property>
+        <!-- URI 定义主机名称和 namenode 的 RPC 服务器工作的端口号 -->
+        <name>fs.defaultFS</name>
+        <value>hdfs://hadoop01:9000</value>
+    </property>
+    <!--
+    <property> 这个可以设置为本地路径，但没有什么用，这个路径是 Hadoop 集群用的
+      Hadoop 临时目录，默认是系统的临时目录下，/tmp/hadoop-${username} 下
+      <name>hadoop.tmp.dir</name>
+      <value>/home/xian/hadoop/cluster</value>
+    </property>  -->
+</configuration>

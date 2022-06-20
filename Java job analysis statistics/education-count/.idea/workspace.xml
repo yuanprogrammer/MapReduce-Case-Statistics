@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="876be6b1-65a0-4fe8-a3a6-3cf3fe7690eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Apache-maven-3.8.1\repository" />
+        <option name="mavenHome" value="F:/Apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="F:\Apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="237i2No8ZxOdNygtjrXXJMnPxq8" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="bigdataide_conn_settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA Projects\java-mapreduce\skill-label-count\src\main\java" />
+      <recent name="F:\IDEA Projects\java-mapreduce\skill-label-count\src\main\resources" />
+      <recent name="F:\IDEA Projects\java-mapreduce\companytype-count\src\main\java" />
+      <recent name="F:\IDEA Projects\java-mapreduce\companytype-count\src\main\resources" />
+      <recent name="F:\IDEA Projects\java-mapreduce\workarea-salary-count\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="学历要求统计" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EducationMain" />
+      <module name="education-count" />
+      <option name="PROGRAM_PARAMETERS" value="MapReduce/input MapReduce/output1111" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最低工资升序排序" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CompanyTypeMain" />
+      <module name="companytype-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最高工资降序排序" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CompanyTypeMain" />
+      <module name="companytype-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="省份分布占比统计" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CompanyTypeMain" />
+      <module name="companytype-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="岗位统计" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CompanyTypeMain" />
+      <module name="companytype-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="工作经验要求统计" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="WorkyearMain" />
+      <module name="workyear-count" />
+      <option name="PROGRAM_PARAMETERS" value="MapReduce/input MapReduce/WorkyearCountResult" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../workyear-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="工作地区的平均工资和占比统计排序" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="WorkareaMain" />
+      <module name="workarea-salary-count" />
+      <option name="PROGRAM_PARAMETERS" value="MapReduce/input MapReduce/WorkareaSalaryCount" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../workarea-salary-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="公司规模类型统计" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CompanyTypeMain" />
+      <module name="companytype-count" />
+      <option name="PROGRAM_PARAMETERS" value="MapReduce/input MapReduce/CompanyTypeCount" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../companytype-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="技能标签的统计排序" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SkillLabelMain" />
+      <module name="skill-label-count" />
+      <option name="PROGRAM_PARAMETERS" value="MapReduce/input MapReduce/SkillLabelCount" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../skill-label-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="工作经验统计" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="WorkyearMain" />
+      <module name="workyear-count" />
+      <option name="PROGRAM_PARAMETERS" value="MapReduce/input MapReduce/WorkyearCountResult" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../workyear-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="各工作地区的平均工资和占比统计排序" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="WorkareaMain" />
+      <module name="workarea-salary-count" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../workarea-salary-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="工作经验要求统计排序" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="WorkyearMain" />
+      <module name="workyear-count" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../workyear-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="公司规模类型统计排序" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CompanyTypeMain" />
+      <module name="companytype-count" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../companytype-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="技能标签统计排序" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SkillLabelMain" />
+      <module name="skill-label-count" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../skill-label-count" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="876be6b1-65a0-4fe8-a3a6-3cf3fe7690eb" name="Default Changelist" comment="" />
+      <created>1641091317505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641091317505</updated>
+      <workItem from="1641091319052" duration="2716000" />
+      <workItem from="1641094054941" duration="7530000" />
+      <workItem from="1641111291628" duration="4706000" />
+      <workItem from="1641128239136" duration="1235000" />
+      <workItem from="1641132052698" duration="1684000" />
+      <workItem from="1641137041870" duration="2733000" />
+      <workItem from="1641172937607" duration="35000" />
+      <workItem from="1641179948417" duration="980000" />
+      <workItem from="1641193760941" duration="3438000" />
+      <workItem from="1641209726369" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1641091370221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1641091370221" />
+    <state x="167" y="113" width="1124" height="636" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641180333654">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="167" y="113" width="1124" height="636" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1641180333654" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1641096286859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1641096286859" />
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1641180331542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1641180331542" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1641099427386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1641099427386" />
+    <state x="625" y="155" key="FileChooserDialogImpl" timestamp="1641117802481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="625" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1641117802481" />
+    <state width="1493" height="446" key="GridCell.Tab.0.bottom" timestamp="1641140015183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="446" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1641140015183" />
+    <state width="1493" height="446" key="GridCell.Tab.0.center" timestamp="1641140015183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="446" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1641140015183" />
+    <state width="1493" height="446" key="GridCell.Tab.0.left" timestamp="1641140015183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="446" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1641140015183" />
+    <state width="1493" height="446" key="GridCell.Tab.0.right" timestamp="1641140015183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="446" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1641140015183" />
+    <state x="130" y="64" width="1156" height="707" key="SettingsEditor" timestamp="1641180323806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="130" y="64" width="1156" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1641180323806" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1641172951268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1641172951268" />
+    <state x="377" y="112" width="782" height="600" key="find.popup" timestamp="1641098222253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="112" width="782" height="600" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1641098222253" />
+    <state x="178" y="107" key="new project wizard" timestamp="1641101963771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1641101963771" />
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup" timestamp="1641092358286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1641092358286" />
+  </component>
+</project>
