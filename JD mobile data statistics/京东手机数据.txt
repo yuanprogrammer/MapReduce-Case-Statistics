@@ -1,4 +1,5 @@
-﻿品牌,手机名称,价格,销量,好评率,购买链接
+111111111 by dongfang﻿
+ 品牌,手机名称,价格,销量,好评率,购买链接
 Apple,商品名称：AppleiPhone 11,4799,4583804,95,http://item.jd.com/100008348542.html
 真我（realme）,商品名称：真我Q2,1199,91583,96,http://item.jd.com/100008900999.html
 Apple,商品名称：AppleiPhone 12,6799,301534,93,http://item.jd.com/100009077475.html
